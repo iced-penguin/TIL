@@ -33,3 +33,5 @@ SPFレコード：ドメインの管理者が作成するテキストデータ�
 
 SMTP（サーバー間でメールを送るプロトコル）では差出人を偽装できる
 → SPFによって送信者を保証し、なりすまし等を防止
+
+[SendGrid 送信ドメインを認証するためのSPFレコードに詳しくなろう](https://sendgrid.kke.co.jp/blog/?p=3509&utm_source=google&utm_medium=cpc&utm_content=text&utm_campaign=dsa&gclid=CjwKCAjwi8iXBhBeEiwAKbUofYplJ_rSoSrq9DFnGCLVUwCshu4YpoMHsPQvf0QjlKy-cDmbkFIJCRoCIXQQAvD_BwE)
