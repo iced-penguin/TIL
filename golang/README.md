@@ -7,3 +7,4 @@ Bookmarks
 - [GORM公式リファレンス](https://pkg.go.dev/gorm.io/gorm)
 - [vim-delve](https://github.com/sebdah/vim-delve) デバッガプラグイン
 - [Slice tricks](https://github.com/golang/go/wiki/SliceTricks#cut)
+- [Go 1 and the Future of Go Programs](https://go.dev/doc/go1compat)  Go1後方互換性についての公式の見解
