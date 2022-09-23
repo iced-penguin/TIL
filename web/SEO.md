@@ -1,4 +1,4 @@
-# SEO
+# SEO robots.txt, sitemap.txt
 
 ## robots.txt
 
