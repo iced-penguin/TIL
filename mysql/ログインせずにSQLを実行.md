@@ -2,7 +2,7 @@
 
 #DB #MySQL
 
-## 方法
+## SQLを直接指定する方法
 
 `-e` オプションを使う
 
@@ -14,6 +14,12 @@ mysql -u ユーザー名 -h ホスト名 -p -e "sql statement"
 
 ```sh
 mysql -u user_name -h host_name -p -e "sql statement" > file_name
+```
+
+## SQLファイルを指定する方法
+
+```sh
+mysql -u ユーザー名 -h ホスト名 -p < sql_file
 ```
 
 ## 参考
